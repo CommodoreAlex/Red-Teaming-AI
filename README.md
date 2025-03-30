@@ -16,6 +16,8 @@ Inspired by Hack The Box’s **AI Red Teamer Path**, this project leverages hand
 2. [Jupyter Notebook: Manipulating the Model](Manipulate.ipynb) and [Data Poison Script](poison.py)
 3. [Attacking Text Generation LLMs: OWASP Top 10](ATG.md)
 4. [Google Secure AI Framework (SAIF)](SAIF.md)
+5. [Model Component](Components.md)
+6. [Data Component](Data.md)
 
 ---
 
