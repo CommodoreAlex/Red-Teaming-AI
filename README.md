@@ -6,6 +6,15 @@ This repository focuses on Red Teaming Machine Learning (ML)-based systems to as
 
 In the context of ML-based systems, security challenges arise due to their complexity, including large datasets, statistical inference, and model architectures. This repository explores how traditional Red Teaming techniques can be adapted to uncover vulnerabilities in AI and ML systems, such as data poisoning, model inversion, and adversarial attacks.
 
+---
+
+## Table of Contents
+
+1. [ML OWASP Top 10](owasp.md)
+2. [Jupyter Notebook: Manipulating the Model](Manipulate.ipynb)
+
+---
+
 ## Objectives
 
 This project aims to:  
