@@ -13,7 +13,7 @@ Inspired by Hack The Box’s **AI Red Teamer Path**, this project leverages hand
 ## Table of Contents
 
 1. [ML OWASP Top 10](owasp.md)
-2. [Jupyter Notebook: Manipulating the Model](Manipulate.ipynb)
+2. [Jupyter Notebook: Manipulating the Model](Manipulate.ipynb) and [Data Poison Script](poison.py)
 
 ---
 
