@@ -8,20 +8,28 @@ In the context of ML-based systems, security challenges arise due to their compl
 
 ## Objectives
 
-This project aims to:
-1. Identify unique vulnerabilities in ML systems.
-2. Apply Red Teaming techniques to assess these vulnerabilities.
-3. Share practical insights and strategies for securing AI systems based on lessons learned.
+This project aims to:  
+1. Identify unique vulnerabilities in ML systems.  
+2. Apply Red Teaming techniques to assess these vulnerabilities.  
+3. Share practical insights and strategies for securing AI systems based on lessons learned.  
 
-## Inspiration
+## Inspiration  
 
 Inspired by Hack The Box’s **AI Red Teamer Path**, this project leverages hands-on techniques to understand and mitigate the security risks of ML systems. The goal is to document and share the process of securing AI models through real-world adversarial methods.
 
 ---
 
-**Project Structure**:
+## **Red Teaming AI: Manipulating the Model**
 
-- **Adversarial AI Techniques**: Exploring attacks like adversarial examples and data poisoning.
-- **Red Teaming Methods**: Applying adversarial strategies specific to ML systems.
-- **Assessment Tools**: Scripts for evaluating model vulnerabilities.
-- **Case Studies**: Real-world examples of ML security flaws.
+- **Focus**: Exploring how machine learning models can be manipulated through adversarial techniques, including injection manipulation (ML01) and data poisoning (ML02). The project demonstrates how modifying input and training data affects model behavior, highlighting vulnerabilities in AI security.  
+- **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
+- **Notebook**: [Red Teaming AI: Manipulating the Model](Manipulate.ipynb)  
+
+---
+
+## Project Structure
+
+- **Adversarial AI Techniques**: Exploring attacks like adversarial examples and data poisoning.  
+- **Red Teaming Methods**: Applying adversarial strategies specific to ML systems.  
+- **Assessment Tools**: Scripts for evaluating model vulnerabilities.  
+- **Case Studies**: Real-world examples of ML security flaws.  
