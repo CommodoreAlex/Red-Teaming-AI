@@ -17,8 +17,10 @@ Inspired by Hack The Box’s **AI Red Teamer Path**, this project leverages hand
 3. [Attacking Text Generation LLMs: OWASP Top 10](ATG.md)
 4. [Google Secure AI Framework (SAIF)](SAIF.md)
 5. [Generative AI for Red Teaming](GenAI.md)
-6. [Model Component](Components.md)
-7. [Data Component](Data.md)
+6. [Attacking Model Components](Components.md)
+7. [Attacking Data Components](Data.md)
+8. [Attacking Application Components](App.md)
+9. [Attacking System Components](System.md)
 
 ---
 
