@@ -45,6 +45,11 @@ This project aims to:
 
 ## Jupyter Notebooks
 
+**Red Teaming AI Skills Assessment: Data Poisoning**
+- **Focus**: Understanding and implementing data poisoning techniques to manipulate the behavior of machine learning classifiers. The goal is to insert a backdoor into a spam classification system that misclassifies messages with a specific phrase as ham, while maintaining overall high accuracy.
+- **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
+- **Notebook**: [Data Poisoning Skills Assessment](RedSkillAssessment.ipynb)  
+
 **Red Teaming AI: Manipulating the Model:**
 - **Focus**: Exploring how machine learning models can be manipulated through adversarial techniques, including injection manipulation (ML01) and data poisoning (ML02). The project demonstrates how modifying input and training data affects model behavior, highlighting vulnerabilities in AI security.  
 - **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
