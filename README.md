@@ -21,6 +21,7 @@ Inspired by Hack The Box’s **AI Red Teamer Path**, this project leverages hand
 7. [Attacking Data Components](Data.md)
 8. [Attacking Application Components](App.md)
 9. [Attacking System Components](System.md)
+10. [Data Poisoning Skills Assessment](RedSkillAssessment.ipynb)
 
 ---
 
