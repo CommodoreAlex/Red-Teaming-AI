@@ -54,8 +54,8 @@ This project aims to:
 ## Python Scripts
 
 **Data Poisoning Python Implementation:**
-**Focus**: Influence the predictive outcomes of a machine learning model with various methods of data poisoining: manipulating specific entries to distort patterns and integrity, alter index assignment to disrupt data alignment and integrity, add irrelevant or corrupt data to increase noise. These work toward diminishhing a model's capability to accurately identify meaningful patterns.
-**Source**: [Data Poisoning](poison.py)
+- **Focus**: Influence the predictive outcomes of a machine learning model with various methods of data poisoining: manipulating specific entries to distort patterns and integrity, alter index assignment to disrupt data alignment and integrity, add irrelevant or corrupt data to increase noise. These work toward diminishhing a model's capability to accurately identify meaningful patterns.
+- **Source**: [Data Poisoning](poison.py)
 
 ---
 
