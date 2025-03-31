@@ -44,9 +44,18 @@ This project aims to:
 
 ## Jupyter Notebooks
 
-**Red Teaming AI: Manipulating the Model**
+**Red Teaming AI: Manipulating the Model:**
 - **Focus**: Exploring how machine learning models can be manipulated through adversarial techniques, including injection manipulation (ML01) and data poisoning (ML02). The project demonstrates how modifying input and training data affects model behavior, highlighting vulnerabilities in AI security.  
 - **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
 - **Notebook**: [Red Teaming AI: Manipulating the Model](Manipulate.ipynb)  
 
 ---
+
+## Python Scripts
+
+**Data Poisoning Python Implementation:**
+**Focus**: Influence the predictive outcomes of a machine learning model with various methods of data poisoining: manipulating specific entries to distort patterns and integrity, alter index assignment to disrupt data alignment and integrity, add irrelevant or corrupt data to increase noise. These work toward diminishhing a model's capability to accurately identify meaningful patterns.
+**Source**: [Data Poisoning](poison.py)
+
+---
+
